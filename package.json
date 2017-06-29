@@ -1,5 +1,5 @@
 {
-  "name": "react-native-material",
+  "name": "react-native-materials",
   "version": "0.0.1",
   "description": "Material components for React Native",
   "main": "index.js",
@@ -27,5 +27,8 @@
   "bugs": {
     "url": "https://github.com/alekhurst/react-native-material/issues"
   },
-  "homepage": "https://github.com/alekhurst/react-native-material#readme"
+  "homepage": "https://github.com/alekhurst/react-native-material#readme",
+  "dependencies": {
+    "react-native-elevated-view": "0.0.4"
+  }
 }
