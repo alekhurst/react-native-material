@@ -1,0 +1,31 @@
+{
+  "name": "react-native-material",
+  "version": "0.0.1",
+  "description": "Material components for React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alekhurst/react-native-material.git"
+  },
+  "keywords": [
+    "react",
+    "react",
+    "native",
+    "material",
+    "google",
+    "material",
+    "design",
+    "style",
+    "elevation",
+    "elevated"
+  ],
+  "author": "“Alek <“123alekhurst@gmail.com”>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alekhurst/react-native-material/issues"
+  },
+  "homepage": "https://github.com/alekhurst/react-native-material#readme"
+}
